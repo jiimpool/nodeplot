@@ -1,2 +1,2 @@
 # nodeplot
-plots nodes
+Projects nodes on plot based on properties and relationships.
